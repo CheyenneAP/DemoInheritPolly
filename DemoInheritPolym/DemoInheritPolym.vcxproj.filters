@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\demoInheritPoly\DemoInheritPoly.cpp">
+    <ClCompile Include="DemoInheritPolym.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
